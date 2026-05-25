@@ -1,0 +1,1 @@
+Request: consult note summary. Fictional patient M-007, 12M sudden severe left testicular pain 2h with emesis. Exam high-riding left testis and absent cremasteric reflex. Doppler limited by motion, intermittent low flow left testis, torsion cannot be excluded.

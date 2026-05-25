@@ -1,0 +1,3 @@
+- Red flag detection: PASS (fever + obstruction + Cr rise)
+- Laterality consistency: PASS (left throughout)
+- Disposition urgency language: PASS

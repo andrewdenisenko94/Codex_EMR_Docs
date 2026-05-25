@@ -1,0 +1,2 @@
+- Red flag detection: PASS (trauma + retention + extravasation)
+- Device consistency: PASS (no conflicting Foley claim)

@@ -1,0 +1,1 @@
+Request: staffing outline. Fictional patient F-006, 17F with fever 39.2C, rigors, left flank pain, emesis. CT 05/24/26: 6 mm left proximal ureteral stone with moderate left hydronephrosis. UA positive LE/nitrite, >50 WBC. WBC 18.4, Cr 1.42 from baseline 0.7, lactate 3.1.

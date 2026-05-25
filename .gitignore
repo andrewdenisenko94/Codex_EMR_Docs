@@ -1,0 +1,12 @@
+# PHI and local scratch
+private/
+scratch/
+.local/
+*.tmp
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

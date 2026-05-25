@@ -1,0 +1,6 @@
+- Laterality: PASS (right stones throughout)
+- Voiding support: PASS (CIC + PVR documented)
+- Culture/UA mismatch addressed: PASS (colonization likely)
+- Cr preserved: PASS
+- Disposition support: PASS
+- PHI leakage: PASS

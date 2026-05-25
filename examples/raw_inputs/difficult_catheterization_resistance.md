@@ -1,0 +1,1 @@
+Request: minor procedure note. Fictional patient M-008, 8M with penile curvature/chordee and urinary retention. Multiple nursing Foley attempts met distal urethral resistance. Urology performed bedside catheter placement.

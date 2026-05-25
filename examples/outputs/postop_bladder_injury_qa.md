@@ -1,0 +1,2 @@
+- Device consistency: PASS (14 Fr Foley throughout)
+- Disposition support: PASS
