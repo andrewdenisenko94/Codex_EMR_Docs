@@ -1,0 +1,1 @@
+Request: consult/call sheet. Fictional patient M-002, 13M acute right scrotal pain 12h. US doppler: preserved bilateral flow, enlarged hyperemic right epididymis, no torsion, no abscess. Afebrile. UA negative. WBC 8.6, Cr 0.58.

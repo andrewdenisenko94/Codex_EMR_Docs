@@ -1,0 +1,2 @@
+- Measurement preservation: PASS (11 mm retained)
+- Follow-up ownership/timing: PASS

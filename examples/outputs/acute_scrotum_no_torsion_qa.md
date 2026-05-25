@@ -1,0 +1,3 @@
+- Laterality: PASS
+- Torsion disposition supported by imaging: PASS
+- Non-GU bloat: PASS

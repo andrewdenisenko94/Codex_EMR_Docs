@@ -1,0 +1,2 @@
+- Torsion escalation language: PASS
+- Laterality consistency: PASS (left throughout)

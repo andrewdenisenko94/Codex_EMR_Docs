@@ -1,0 +1,1 @@
+Request: update note. Fictional patient F-005, 15F s/p abdominal surgery with repaired dome bladder injury intra-op. Foley 14 Fr in place draining clear yellow urine. CT cystogram POD7 planned before Foley removal. Afebrile, Cr 0.67, WBC 9.2.

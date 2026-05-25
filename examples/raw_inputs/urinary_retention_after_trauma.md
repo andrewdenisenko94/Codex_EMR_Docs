@@ -1,0 +1,1 @@
+Request: staffing outline. Fictional patient M-003, 16M pelvic trauma after ATV crash. Unable to void, blood at meatus. Bladder scan 620 mL. RUG: posterior urethral contrast extravasation. Cr 0.9, WBC 12.1, Hgb 12.4.

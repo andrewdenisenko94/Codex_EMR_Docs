@@ -1,0 +1,1 @@
+Request: care coordination note. Fictional patient N-004, 12-day-old male, prenatal UTD A2-3. Postnatal RBUS day 10: left renal pelvic AP diameter 11 mm, central calyceal dilation, normal parenchyma, no ureteral dilation. Voiding spontaneous, Cr 0.31.

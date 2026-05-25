@@ -1,0 +1,2 @@
+- Device size preservation: PASS (10 Fr retained)
+- Unsafe repeat-attempt warning: PASS
